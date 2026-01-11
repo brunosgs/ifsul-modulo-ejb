@@ -1,4 +1,4 @@
-package ifsul.modulo.ejb.bean;
+package ifsul.modulo.ejb.bean.stateless;
 
 import java.io.Serializable;
 import java.time.LocalDateTime;

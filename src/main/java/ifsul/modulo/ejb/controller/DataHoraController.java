@@ -2,8 +2,7 @@ package ifsul.modulo.ejb.controller;
 
 import java.io.Serializable;
 
-import ifsul.modulo.ejb.bean.DataHoraBean;
-
+import ifsul.modulo.ejb.bean.stateless.DataHoraBean;
 import jakarta.ejb.EJB;
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.inject.Named;
